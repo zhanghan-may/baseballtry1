@@ -2,9 +2,9 @@
 baseurl: "/Girls-Coding-Day-Jekyll-blog-1"
 
 # 网站的主标题
-title: "Girls Coding Day"
+title: "社一子伍"
 # 网站副标题
-subTitle: "架起女性与编程的桥梁"
+subTitle: "强棒少女的陪伴日记"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
